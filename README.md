@@ -1,7 +1,22 @@
-### Hi there 👋
+<h1>Hi, I'm Mario! <br/>Cybersecurity Professional</a>
+
+<h2>🎓 Certifications:</h2>
+
+<b>Google Cycbersecurity Certification - Nov 2023</b>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+
+
+<h2>📺 Popular YouTube Videos</h2>
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
 
 <!--
-**mariocyber/mariocyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
